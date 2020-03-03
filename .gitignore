@@ -1,3 +1,5 @@
 *.pdf
 *.html
 *.odt
+*.txt
+!readme.txt
